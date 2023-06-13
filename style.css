@@ -10,7 +10,7 @@ body {
     display: flex;
     background-color: #1F2937;
     margin: 0;
-    padding: 0;
+    padding: 16px 0;
     align-items: center;
     box-sizing: border-box;
     justify-content: space-around;
@@ -19,6 +19,8 @@ body {
 .links {
     display: flex;
     gap: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 .logo {
